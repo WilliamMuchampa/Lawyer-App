@@ -85,23 +85,7 @@ flutter:
     - assets/log.png
     - assets/A.png
 
-    - assets/theresa.png
-    - assets/contact.png
-    - assets/message.png
-    - assets/call.png
-    - assets/event1.png
-    - assets/event2.png
-    - assets/lawyer1.png
-    - assets/lawyer2.png
-    - assets/lawyer3.png
-    - assets/lawfirm.png
-    - assets/lawfirm1.png
-    - assets/lawfirm2.png
-    - assets/Group.png
-    - assets/map.png
-    - assets/downarrow.png
-    - assets/profile.png
-    - assets/notification.png
+
 
   #   - images/a_dot_ham.jpeg
 
